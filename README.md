@@ -6,4 +6,4 @@ Git is free software distributed under the GPL.
 
 Git has a mutale index called stage.
 
-Git tracks changes of files.
+Git tracks changes of files haha.
