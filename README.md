@@ -1,4 +1,4 @@
-# Git-skills
+
 
 Git is a distributed version control system.
 
@@ -10,4 +10,4 @@ Git tracks changes of files haha.
 
 Creating a new branch is quick and simple.
 
-Dev1 branch.
+Dev2 branch.
